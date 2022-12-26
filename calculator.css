@@ -1,0 +1,22 @@
+body{
+    background-color: blueviolet;
+}
+
+.container{
+    margin-top: 130px;
+}
+
+#result{
+    width: 100%;
+}
+
+input[type="button"]{
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border: 3px solid black;
+}
+
+.col-md-6 h1{
+    font-weight: bold;
+}
